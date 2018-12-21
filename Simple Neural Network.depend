@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1540377714 source:c:\users\lenovo g40\desktop\project\c++\simple neural network\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	"NeuralNetwork.h"
+
+1540377714 source:c:\users\lenovo g40\desktop\project\c++\simple neural network\nndescriptive.cpp
+	"NeuralNetwork.h"
+	<iostream>
+	<cmath>
+
+1540377714 c:\users\lenovo g40\desktop\project\c++\simple neural network\neuralnetwork.h
+	<vector>
+
